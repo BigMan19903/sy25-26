@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "quiuz 2", "quiuz 2\quiuz 2.pyproj", "{0A146F60-95B0-44CB-95BE-6A6ABFD29EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A146F60-95B0-44CB-95BE-6A6ABFD29EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A146F60-95B0-44CB-95BE-6A6ABFD29EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E7AD7E-49B2-4E40-8EB0-CBD07F365CED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+Car
+Boat
+tree
+food
+book
+cat
+rat
+I ate two sandwich's
+house

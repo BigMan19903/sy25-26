@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "quartet", "quartet\quartet.pyproj", "{60585D37-B3E2-4ACE-9BC4-0877AC09FB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60585D37-B3E2-4ACE-9BC4-0877AC09FB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60585D37-B3E2-4ACE-9BC4-0877AC09FB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3546DCB8-4B36-45D6-8147-2EB6B7512972}
+	EndGlobalSection
+EndGlobal
