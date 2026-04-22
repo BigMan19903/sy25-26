@@ -54,4 +54,4 @@ def scrape_with_permission(target_url):
 # Run the combined script
 if __name__ == "__main__":
     # You can change this to any URL you want to test
-    scrape_with_permission("https:/yhoo.com")
+    scrape_with_permission("https://books.toscrape.com/")
